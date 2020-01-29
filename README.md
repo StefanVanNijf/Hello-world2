@@ -1,2 +1,2 @@
-# Hello-world2
+# Hello world2
 kennismaken met github
